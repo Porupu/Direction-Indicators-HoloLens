@@ -1,0 +1,7 @@
+#include "il2cpp-config.h"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\MonoPosixHelper.cpp"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolMonitorThread.cpp"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\ThreadPoolWorkerThread.cpp"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io-poll.cpp"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms-io.cpp"
+#include "Y:\My Documents\Year 3\Individual Project\Unity-new\Direction-Indicator\App - multiple sources\Il2CppOutputProject\IL2CPP\libil2cpp\mono\ThreadPool\threadpool-ms.cpp"
