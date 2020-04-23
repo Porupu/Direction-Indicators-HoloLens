@@ -2,6 +2,19 @@
 The main folder conatins the Unity (2019.2.6f1) project.  
 The *App* folders are Unity builds of the main scene and they contain the Visual Studio (2017) solution that can be opened in HoloLens Emulator.  
 Emulator version used: 10.0.17763.134  
+HoloLens Emulator system requirements:  
+The HoloLens Emulator uses Hyper-V with RemoteFx (1st Gen Emulator) for hardware accelerated graphics.  
+64-bit Windows 10 Pro, Enterprise, or Education (Windows 10 Home Edition does not support Hyper-V or the HoloLens Emulator.)  
+64-bit CPU with 4 cores (or multiple CPUs with a total of 4 cores)  
+8 GB of RAM or more  
+In the BIOS, the following features must be supported and enabled:  
+Hardware-assisted virtualization  
+Second Level Address Translation (SLAT)  
+Hardware-based Data Execution Prevention (DEP)  
+GPU requirements:  
+DirectX 11.0 or later  
+WDDM 1.2 graphics driver or later  
+The emulator might work with an unsupported GPU, but will be significantly slower  
   
 Running the *App* in the Emulator should display a rather large sphere in front of the user, with appropriate arrow indicators using its 
 Vector3 location as the reference to change rotation to be pointing in its direction. After a brief delay, new sphere spawn in a random 
