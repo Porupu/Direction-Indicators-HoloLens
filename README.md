@@ -14,4 +14,6 @@ Lastly, the *App - smaller spheres* should behave in the same way as *App*, howe
 making them less obtrusive.
 
 It is possible to use mouse inputs in the Emulator to turn the camera (simulating turning of the user's head). Indicators will adjust their
-relative rotation to be constantly pointing to their associated spheres. Spheres can come into view for visual confirmation.
+relative rotation to be constantly pointing to their associated spheres. Spheres can come into view for visual confirmation.  
+  
+This project is a part of University of South Wales final year Individual project - Computer Games Development dissertation.
